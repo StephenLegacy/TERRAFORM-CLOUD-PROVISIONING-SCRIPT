@@ -1,6 +1,6 @@
 Stephen Oloo
 
-Last Updated: 15/07/2024 17:15
+Last Updated: 14/01/2025 22:43
 
 
 ---
@@ -172,9 +172,9 @@ This command changes the Apache document root to `/var/www/html`, where WordPres
 
 ## Summary
 
-This Terraform script automates the deployment of a WordPress website on AWS, including setting up necessary infrastructure components and configuring an EC2 instance to serve WordPress from the root directory. It provides a robust and scalable solution for hosting a WordPress site on AWS.
+This Terraform script automates the deployment of a WordPress website on AWS, including setting up necessary infrastructure components and configuring an EC2 instance to serve WordPress from the root directory. It provides a robust and scalable solution for hosting a WordPress site on AWS. Do Not Edit ReadMe
 
 --- 
 
 STEPHEN OLOO 
-UPDATED 15/07/2024
+UPDATED 14/01/2025
