@@ -177,4 +177,4 @@ This Terraform script automates the deployment of a WordPress website on AWS, in
 --- 
 
 STEPHEN OLOO 
-UPDATED 14/01/2025
+
